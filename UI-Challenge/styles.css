@@ -68,7 +68,7 @@ body{
 #gallery .gallery-image:hover .img-infos {
     top: 70%;
 }
-
+/*RESPONSIVENESS STYLES*/
 @media (max-width: 584px) {
     #gallery .gallery-image .img-infos {
         display: none;
